@@ -17,11 +17,7 @@ Below are the papers related to jailbreak attacks.
 |[**Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs**](https://arxiv.org/abs/2502.11184) | Arxiv 2025 | 2025/02/16 | None | --- | I+T→T |
 |[**Distraction is All You Need for Multimodal Large Language Model Jailbreaking**](https://arxiv.org/abs/2502.10794) | CVPR 2025 | 2025/02/15 | None | --- | I+T→T |
 |[**ELITE: Enhanced Language-Image Toxicity Evaluation for Safety**](https://arxiv.org/abs/2502.04757) | Arxiv 2025 | 2025/02/07 | None | --- | I+T→T |
-|[**`Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs**](https://arxiv.org/abs/2502.00735) | Arxiv 2025 | 2025/02/02 | None | --- | A+T→T |
-|[**"I am bad": Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models**](https://arxiv.org/abs/2502.00718) | Arxiv 2025 | 2025/02/02 | None | --- | A+T→T |
-|[**Tune In, Act Up: Exploring the Impact of Audio Modality-Specific Edits on Large Audio Language Models in Jailbreak**](https://arxiv.org/abs/2501.13772) | Arxiv 2025 | 2025/01/23 | None | --- | A+T→T |
 |[**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**](https://arxiv.org/abs/2501.04931) | Arxiv 2025 | 2025/01/09 | None | --- | I+T→T |
-|[**Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models**](https://arxiv.org/abs/2412.16555) | Arxiv 2024 | 2024/12/21 | None | --- | I+T+A→T |
 |[**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**](https://arxiv.org/abs/2412.05934) | Arxiv 2024 | 2024/12/8 | [Github](https://github.com/MaTengSYSU/HIMRD-jailbreak) | --- | I+T→T |
 |[**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
 |[**Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**](https://arxiv.org/abs/2412.00473) | Arxiv 2024 | 2024/11/30 | [Github](https://github.com/wangyu-ovo/MML) | --- | I+T→T |
@@ -47,15 +43,11 @@ Below are the papers related to jailbreak attacks.
 |[**Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models**](https://arxiv.org/abs/2405.20775) | Arxiv 2024 | 2024/05/26 | [Github](https://github.com/dirtycomputer/O2M_attack) | --- | I+T→T |
 |[**Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**](https://arxiv.org/abs/2405.20773) | Arxiv 2024 | 2024/05/25 | None | Input Level | I+T→T |
 |[**Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models**](https://arxiv.org/abs/2403.09792) | ECCV 2024 | 2024/05/14 | [Github](https://github.com/RUCAIBox/HADES)| Generator Level | I+T→T |
-|[**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**](https://arxiv.org/abs/2402.08567) | ICML 2024 | 2024/02/13 | [Github](https://github.com/sail-sg/Agent-Smith) | Generator Level | I+T→T |
-|[**Jailbreaking Attack against Multimodal Large Language Model**](https://arxiv.org/abs/2402.02309) | Arxiv 2024 | 2024/02/04 | None| Generator Level | I+T→T |
 |[**Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models**](https://arxiv.org/abs/2307.14539) | ICLR 2024 Spotlight | 2024/01/16 | [Github](https://github.com/erfanshayegani/Jailbreak-In-Pieces) | Encoder Level | I+T→T |
 |[**MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models**](https://arxiv.org/abs/2311.17600) | ECCV 2024 | 2023/11/29 | [Github](https://github.com/isXinLiu/MM-SafetyBench) | Input Level | I+T→T |
-|[**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/abs/2311.16101) | ECCV 2024 | 2023/11/27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Encoder Level | I+T→T |
 |[**Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts**](https://arxiv.org/abs/2311.09127) | Arxiv 2023 | 2023/11/15 | None | Output Level | I+T→T |
 |[**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**](https://arxiv.org/abs/2311.05608) | AAAI 2025 | 2023/11/09 | [Github](https://github.com/ThuCCSLab/FigStep) | Input Level | I+T→T |
 |[**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**](https://arxiv.org/abs/2309.00236) | ICML 2024 | 2023/09/01 | [Github](https://github.com/euanong/image-hijacks) | Generator Level | I+T→T |
-|[**Are aligned neural networks adversarially aligned?**](https://arxiv.org/abs/2306.15447) | NeurIPS 2023 | 2023/06/26 | None | Generator Level | I+T→T |
 |[**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213) | AAAI 2024 | 2023/06/22 | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Generator Level | I+T→T |
 |[**On Evaluating Adversarial Robustness of Large Vision-Language Models**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a97b58c4f7551053b0512f92244b0810-Abstract-Conference.html) | NeurIPS 2023 | 2023/05/26 | [Homepage](https://yunqing-me.github.io/AttackVLM/) | Encoder Level | I+T→T |
 
@@ -103,7 +95,7 @@ Below are the papers related to jailbreak defense.
 |[**Inferaligner: Inference-time alignment for harmlessness through cross-model guidance**](https://arxiv.org/abs/2401.11206) | EMNLP 2024 | 2024/01/20 | [Github](https://github.com/Jihuai-wpy/InferAligner) | Generator Level | I+T→T |
 |[**Mllm-protector: Ensuring mllm’s safety without hurting performance**](https://arxiv.org/abs/2401.02906) | EMNLP 2024 | 2024/01/05 | [Github](https://github.com/pipilurj/MLLM-protector) | Output Level | I+T→T |
 |[**Jailguard: A universal detection framework for llm prompt-based attacks**](https://arxiv.org/abs/2312.10766) | Arxiv 2023 | 2023/12/17 | [Github](https://github.com/shiningrain/JailGuard) | Output Level | I+T→T |
-|[**Safety-tuned llamas: Lessons from improving the safety of large language models that follow instructions**](https://arxiv.org/abs/2309.07875) | ICLR 2024 | 2023/09/14 | [Github](https://github.com/vinid/safety-tuned-llamas) | Generator Level | I+T→T |
+
 
 
 
