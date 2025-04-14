@@ -9,12 +9,10 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content**](https://arxiv.org/abs/2503.09964) | Arxiv 2025 | 2025/03/13 | Benchmark attack(暂未开源) | --- | I+T→T |
-|[**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**](https://arxiv.org/abs/2502.21059) | Arxiv 2025 | 2025/02/28 | 暂未开源，但可复现 | --- | I+T→T |
-|[**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**](https://arxiv.org/abs/2502.14976) | Arxiv 2025 | 2025/02/20 | None | --- | I+T→T |
-|[**Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs**](https://arxiv.org/abs/2502.11184) | Arxiv 2025 | 2025/02/16 | None | --- | I+T→T |
-|[**Distraction is All You Need for Multimodal Large Language Model Jailbreaking**](https://arxiv.org/abs/2502.10794) | CVPR 2025 | 2025/02/15 | None | --- | I+T→T |
-|[**ELITE: Enhanced Language-Image Toxicity Evaluation for Safety**](https://arxiv.org/abs/2502.04757) | Arxiv 2025 | 2025/02/07 | None | --- | I+T→T |
+|[**ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content**](https://arxiv.org/abs/2503.09964) | Arxiv 2025 | 2025/03/13 | Benchmark attack(暂未开源) | Input Level | I+T→T |
+|[**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**](https://arxiv.org/abs/2502.21059) | Arxiv 2025 | 2025/02/28 | 暂未开源，但可复现 | Input Level | I+T→T |
+|[**Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs**](https://arxiv.org/abs/2502.11184) | Arxiv 2025 | 2025/02/16 | Benchmark attack(暂未开源) | Input Level | I+T→T |
+|[**Distraction is All You Need for Multimodal Large Language Model Jailbreaking**](https://arxiv.org/abs/2502.10794) | CVPR 2025 | 2025/02/15 | 暂未开源，但可复现 | Input Level | I+T→T |
 |[**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**](https://arxiv.org/abs/2501.04931) | Arxiv 2025 | 2025/01/09 | None | --- | I+T→T |
 |[**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**](https://arxiv.org/abs/2412.05934) | Arxiv 2024 | 2024/12/8 | [Github](https://github.com/MaTengSYSU/HIMRD-jailbreak) | --- | I+T→T |
 |[**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
@@ -50,6 +48,7 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**](https://arxiv.org/abs/2502.14976) | Arxiv 2025 | 2025/02/20 | None | --- | I+T→T |
 |[**Hyperbolic Safety-Aware Vision-Language Models**](https://arxiv.org/abs/2503.12127) | CVPR 2025 | 2025/03/15 | [Github](https://github.com/aimagelab/HySAC) | --- | I+T→T |
 |[**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**](https://arxiv.org/abs/2503.11619) | Arxiv 2025 | 2025/03/14 | None | --- | I+T→T |
 |[**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**](https://arxiv.org/abs/2503.06989) | Arxiv 2025 | 2025/03/10 | None | --- | I+T→T |
@@ -101,6 +100,9 @@ Below are the papers related to jailbreak defense.
 ### 📚Evaluation Methods
 
 <!-- **Detector-based approaches utilize pre-trained classifiers to automatically detect and identify harmful content within generated outputs. These classifiers are trained on large, annotated datasets that cover a range of unsafe categories, such as toxicity, violence, or explicit material. By leveraging these pre-trained models, detector-based methods can efficiently flag inappropriate content.** -->
+|  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
+|:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**ELITE: Enhanced Language-Image Toxicity Evaluation for Safety**](https://arxiv.org/abs/2502.04757) | Arxiv 2025 | 2025/02/07 | None | --- | I+T→T |
 
 #### Text Detector
 |  Toxicity detector  |   Access  | 
