@@ -9,9 +9,8 @@ Below are the papers related to jailbreak attacks.
 ## Jailbreak Attack of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy |  Multimodal Model|
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content**](https://arxiv.org/abs/2503.09964) | Arxiv 2025 | 2025/03/13 | None | --- | I+T→T |
-|[**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**](https://arxiv.org/abs/2503.06989) | Arxiv 2025 | 2025/03/10 | None | --- | I+T→T |
-|[**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**](https://arxiv.org/abs/2502.21059) | Arxiv 2025 | 2025/02/28 | None | --- | I+T→T |
+|[**ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content**](https://arxiv.org/abs/2503.09964) | Arxiv 2025 | 2025/03/13 | Benchmark attack(暂未开源) | --- | I+T→T |
+|[**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**](https://arxiv.org/abs/2502.21059) | Arxiv 2025 | 2025/02/28 | 暂未开源，但可复现 | --- | I+T→T |
 |[**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**](https://arxiv.org/abs/2502.14976) | Arxiv 2025 | 2025/02/20 | None | --- | I+T→T |
 |[**Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs**](https://arxiv.org/abs/2502.11184) | Arxiv 2025 | 2025/02/16 | None | --- | I+T→T |
 |[**Distraction is All You Need for Multimodal Large Language Model Jailbreaking**](https://arxiv.org/abs/2502.10794) | CVPR 2025 | 2025/02/15 | None | --- | I+T→T |
