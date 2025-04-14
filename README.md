@@ -13,12 +13,10 @@ Below are the papers related to jailbreak attacks.
 |[**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**](https://arxiv.org/abs/2502.21059) | Arxiv 2025 | 2025/02/28 | 暂未开源，但可复现 | Input Level | I+T→T |
 |[**Can't See the Forest for the Trees: Benchmarking Multimodal Safety Awareness for Multimodal LLMs**](https://arxiv.org/abs/2502.11184) | Arxiv 2025 | 2025/02/16 | Benchmark attack(暂未开源) | Input Level | I+T→T |
 |[**Distraction is All You Need for Multimodal Large Language Model Jailbreaking**](https://arxiv.org/abs/2502.10794) | CVPR 2025 | 2025/02/15 | 暂未开源，但可复现 | Input Level | I+T→T |
-|[**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**](https://arxiv.org/abs/2501.04931) | Arxiv 2025 | 2025/01/09 | None | --- | I+T→T |
-|[**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**](https://arxiv.org/abs/2412.05934) | Arxiv 2024 | 2024/12/8 | [Github](https://github.com/MaTengSYSU/HIMRD-jailbreak) | --- | I+T→T |
-|[**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | None | --- | I+T→T |
-|[**Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**](https://arxiv.org/abs/2412.00473) | Arxiv 2024 | 2024/11/30 | [Github](https://github.com/wangyu-ovo/MML) | --- | I+T→T |
-|[**The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense**](https://arxiv.org/abs/2411.08410) | Arxiv 2024 | 2024/11/13 | None | --- | I+T→T |
-|[**MMJ-Bench : A Comprehensive Study on Jailbreak Attacks and Defenses for Multimodal Large Language Models**](https://arxiv.org/abs/2408.08464) | Arxiv 2024 | 2024/08/16 | None | --- | I+T→T |
+|[**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**](https://arxiv.org/abs/2501.04931) | Arxiv 2025 | 2025/01/09 | 暂未开源，但可复现 | Input Level | I+T→T |
+|[**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**](https://arxiv.org/abs/2412.05934) | Arxiv 2024 | 2024/12/8 | [Github](https://github.com/MaTengSYSU/HIMRD-jailbreak) | Input Level | I+T→T |
+|[**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | 暂未开源，但可复现 | Input Level | I+T→T |
+|[**Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**](https://arxiv.org/abs/2412.00473) | Arxiv 2024 | 2024/11/30 | [Github](https://github.com/wangyu-ovo/MML) | Input Level | I+T→T （更新到此！）|
 |[**Failures to Find Transferable Image Jailbreaks Between Vision-Language Models**](https://arxiv.org/abs/2407.15211) | NeurIPS 2024 Workshops | 2024/07/21 | None | --- | I+T→T |
 |[**MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**](https://arxiv.org/abs/2406.07594) | NeurIPS 2024 | 2024/06/11 | [Github](https://github.com/Carol-gutianle/MLLMGuard) | --- | I+T→T |
 |[**Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks**](https://arxiv.org/abs/2406.06302) | Arxiv 2024 | 2024/06/10 | [Github](https://github.com/NY1024/Jailbreak_GPT4o) | --- | I+T→T |
@@ -48,6 +46,7 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+|[**The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense**](https://arxiv.org/abs/2411.08410) | Arxiv 2024 | 2024/11/13 | 暂未开源 | --- | I+T→T |
 |[**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**](https://arxiv.org/abs/2502.14976) | Arxiv 2025 | 2025/02/20 | None | --- | I+T→T |
 |[**Hyperbolic Safety-Aware Vision-Language Models**](https://arxiv.org/abs/2503.12127) | CVPR 2025 | 2025/03/15 | [Github](https://github.com/aimagelab/HySAC) | --- | I+T→T |
 |[**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**](https://arxiv.org/abs/2503.11619) | Arxiv 2025 | 2025/03/14 | None | --- | I+T→T |
