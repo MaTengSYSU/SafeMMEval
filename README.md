@@ -16,22 +16,20 @@ Below are the papers related to jailbreak attacks.
 |[**Jailbreaking Multimodal Large Language Models via Shuffle Inconsistency**](https://arxiv.org/abs/2501.04931) | Arxiv 2025 | 2025/01/09 | 暂未开源，但可复现 | Input Level | I+T→T |
 |[**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**](https://arxiv.org/abs/2412.05934) | Arxiv 2024 | 2024/12/8 | [Github](https://github.com/MaTengSYSU/HIMRD-jailbreak) | Input Level | I+T→T |
 |[**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | 暂未开源，但可复现 | Input Level | I+T→T |
-|[**Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**](https://arxiv.org/abs/2412.00473) | Arxiv 2024 | 2024/11/30 | [Github](https://github.com/wangyu-ovo/MML) | Input Level | I+T→T （更新到此！）|
-|[**Failures to Find Transferable Image Jailbreaks Between Vision-Language Models**](https://arxiv.org/abs/2407.15211) | NeurIPS 2024 Workshops | 2024/07/21 | None | --- | I+T→T |
-|[**MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**](https://arxiv.org/abs/2406.07594) | NeurIPS 2024 | 2024/06/11 | [Github](https://github.com/Carol-gutianle/MLLMGuard) | --- | I+T→T |
+|[**Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**](https://arxiv.org/abs/2412.00473) | Arxiv 2024 | 2024/11/30 | [Github](https://github.com/wangyu-ovo/MML) | Input Level | I+T→T |
 |[**Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks**](https://arxiv.org/abs/2406.06302) | Arxiv 2024 | 2024/06/10 | [Github](https://github.com/NY1024/Jailbreak_GPT4o) | --- | I+T→T |
-|[**VLSBench: Unveiling Visual Leakage in Multimodal Safety**](https://arxiv.org/abs/2411.19939) | Arxiv 2024 | 2024/11/29 | [Homepage](https://hxhcreate.github.io/vlsbench.github.io/) | Input Level | I+T→T |
-|[**IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves**](https://arxiv.org/abs/2411.00827) | Arxiv 2024 | 2024/11/15 | None | Output Level | I+T→T |
-|[**Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models**](https://arxiv.org/abs/2411.07559) | Neurips SafeGenAi Workshop 2024 | 2024/11/12 | None | Output Level | I+T→T |
-|[**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**](https://arxiv.org/abs/2407.15050) | ACM MM 2024 | 2024/07/21 | None | Input Level | I+T→T |
-|[**Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**](https://arxiv.org/abs/2407.02534) | Arxiv 2024 | 2024/07/01 | None | Input Level | I+T→T |
+|[**VLSBench: Unveiling Visual Leakage in Multimodal Safety**](https://arxiv.org/abs/2411.19939) | Arxiv 2024 | 2024/11/29 | [Homepage](https://hxhcreate.github.io/vlsbench.github.io/) | Benchmark attack | I+T→T |
+|[**IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves**](https://arxiv.org/abs/2411.00827) | Arxiv 2024 | 2024/11/15 | 暂未开源，复现未知 | Output Level | I+T→T |
+|[**Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models**](https://arxiv.org/abs/2411.07559) | Neurips SafeGenAi Workshop 2024 | 2024/11/12 | 暂未开源，复现未知 | Output Level | I+T→T |
+|[**Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts**](https://arxiv.org/abs/2407.15050) | ACM MM 2024 | 2024/07/21 | 即将开源 | Input Level | I+T→T |
+|[**Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything**](https://arxiv.org/abs/2407.02534) | Arxiv 2024 | 2024/07/01 | [Github](https://github.com/zhuxiaotianzaishuijiao/Jailbreak-flowchart) | Input Level | I+T→T |
 |[**Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt**](https://arxiv.org/abs/2406.04031) | Arxiv 2024 | 2024/06/06 | [Github](https://github.com/NY1024/BAP-Jailbreak-Vision-Language-Models-via-Bi-Modal-Adversarial-Prompt) | Generator Level | I+T→T |
 |[**White-box Multimodal Jailbreaks Against Large Vision-Language Models**](https://arxiv.org/abs/2405.17894) | ACM Multimedia 2024 | 2024/05/28 | [Github](https://github.com/roywang021/UMK) | Generator Level | I+T→T |
 |[**Best-of-N Jailbreaking**](https://arxiv.org/abs/2412.03556) | Arxiv 2024 | 2024/11/4 | [Github]([https://github.com/roywang021/UMK](https://github.com/jplhughes/bon-jailbreaking)) | Input Level | I+T→T |
-|[**Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**](https://arxiv.org/abs/2405.20773) | Arxiv 2024 | 2024/05/25 | None | Input Level | I+T→T |
+|[**Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character**](https://arxiv.org/abs/2405.20773) | Arxiv 2024 | 2024/05/25 | 暂未开源，但可复现 | Input Level | I+T→T |
 |[**Images are Achilles' Heel of Alignment: Exploiting Visual Vulnerabilities for Jailbreaking Multimodal Large Language Models**](https://arxiv.org/abs/2403.09792) | ECCV 2024 | 2024/05/14 | [Github](https://github.com/RUCAIBox/HADES)| Generator Level | I+T→T |
 |[**Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models**](https://arxiv.org/abs/2307.14539) | ICLR 2024 Spotlight | 2024/01/16 | [Github](https://github.com/erfanshayegani/Jailbreak-In-Pieces) | Encoder Level | I+T→T |
-|[**MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models**](https://arxiv.org/abs/2311.17600) | ECCV 2024 | 2023/11/29 | [Github](https://github.com/isXinLiu/MM-SafetyBench) | Input Level | I+T→T |
+|[**MM-SafetyBench: A Benchmark for Safety Evaluation of Multimodal Large Language Models**](https://arxiv.org/abs/2311.17600) | ECCV 2024 | 2023/11/29 | [Github](https://github.com/isXinLiu/MM-SafetyBench) | Benchmark attack | I+T→T |
 |[**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**](https://arxiv.org/abs/2311.05608) | AAAI 2025 | 2023/11/09 | [Github](https://github.com/ThuCCSLab/FigStep) | Input Level | I+T→T |
 |[**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**](https://arxiv.org/abs/2309.00236) | ICML 2024 | 2023/09/01 | [Github](https://github.com/euanong/image-hijacks) | Generator Level | I+T→T |
 |[**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213) | AAAI 2024 | 2023/06/22 | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Generator Level | I+T→T |
@@ -103,6 +101,7 @@ Below are the papers related to jailbreak defense.
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |[**ELITE: Enhanced Language-Image Toxicity Evaluation for Safety**](https://arxiv.org/abs/2502.04757) | Arxiv 2025 | 2025/02/07 | None | --- | I+T→T |
+|[**MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models**](https://arxiv.org/abs/2406.07594) | NeurIPS 2024 | 2024/06/11 | [Github](https://github.com/Carol-gutianle/MLLMGuard) | --- | I+T→T |
 
 #### Text Detector
 |  Toxicity detector  |   Access  | 
