@@ -17,7 +17,6 @@ Below are the papers related to jailbreak attacks.
 |[**Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models**](https://arxiv.org/abs/2412.05934) | Arxiv 2024 | 2024/12/8 | [Github](https://github.com/MaTengSYSU/HIMRD-jailbreak) | Input Level | I+T→T |
 |[**PBI-Attack: Prior-Guided Bimodal Interactive Black-Box Jailbreak Attack for Toxicity Maximization**](https://arxiv.org/abs/2412.05892) | Arxiv 2024 | 2024/12/8 | 暂未开源，但可复现 | Input Level | I+T→T |
 |[**Jailbreak Large Vision-Language Models Through Multi-Modal Linkage**](https://arxiv.org/abs/2412.00473) | Arxiv 2024 | 2024/11/30 | [Github](https://github.com/wangyu-ovo/MML) | Input Level | I+T→T |
-|[**Unveiling the Safety of GPT-4o: An Empirical Study using Jailbreak Attacks**](https://arxiv.org/abs/2406.06302) | Arxiv 2024 | 2024/06/10 | [Github](https://github.com/NY1024/Jailbreak_GPT4o) | --- | I+T→T |
 |[**VLSBench: Unveiling Visual Leakage in Multimodal Safety**](https://arxiv.org/abs/2411.19939) | Arxiv 2024 | 2024/11/29 | [Homepage](https://hxhcreate.github.io/vlsbench.github.io/) | Benchmark attack | I+T→T |
 |[**IDEATOR: Jailbreaking Large Vision-Language Models Using Themselves**](https://arxiv.org/abs/2411.00827) | Arxiv 2024 | 2024/11/15 | 暂未开源，复现未知 | Output Level | I+T→T |
 |[**Zer0-Jack: A memory-efficient gradient-based jailbreaking method for black box Multi-modal Large Language Models**](https://arxiv.org/abs/2411.07559) | Neurips SafeGenAi Workshop 2024 | 2024/11/12 | 暂未开源，复现未知 | Output Level | I+T→T |
