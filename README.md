@@ -32,7 +32,7 @@ Below are the papers related to jailbreak attacks.
 |[**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**](https://arxiv.org/abs/2311.05608) | AAAI 2025 | 2023/11/09 | [Github](https://github.com/ThuCCSLab/FigStep) | Input Level | I+T→T |
 |[**Image Hijacks: Adversarial Images can Control Generative Models at Runtime**](https://arxiv.org/abs/2309.00236) | ICML 2024 | 2023/09/01 | [Github](https://github.com/euanong/image-hijacks) | Generator Level | I+T→T |
 |[**Visual Adversarial Examples Jailbreak Aligned Large Language Models**](https://arxiv.org/abs/2306.13213) | AAAI 2024 | 2023/06/22 | [Github](https://github.com/Unispac/Visual-Adversarial-Examples-Jailbreak-Large-Language-Models) | Generator Level | I+T→T |
-
+|[**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**](https://arxiv.org/abs/2501.10057) | Arxiv 2025 | 2025/01/17 | [Github](https://github.com/paul-rottger/msts-multimodal-safety) | Benchmark attack | I+T→T |
 
 
 ## 🛡️Jailbreak Defense
@@ -44,23 +44,18 @@ Below are the papers related to jailbreak defense.
 ## Jailbreak Defense of Any-to-Text Models
 |  Title  |   Venue  |   Date   |   Code   | Taxonomy | Multimodal Model |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
-|[**The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense**](https://arxiv.org/abs/2411.08410) | Arxiv 2024 | 2024/11/13 | 暂未开源 | --- | I+T→T |
-|[**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**](https://arxiv.org/abs/2502.14976) | Arxiv 2025 | 2025/02/20 | None | --- | I+T→T |
-|[**Hyperbolic Safety-Aware Vision-Language Models**](https://arxiv.org/abs/2503.12127) | CVPR 2025 | 2025/03/15 | [Github](https://github.com/aimagelab/HySAC) | --- | I+T→T |
-|[**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**](https://arxiv.org/abs/2503.11619) | Arxiv 2025 | 2025/03/14 | None | --- | I+T→T |
-|[**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**](https://arxiv.org/abs/2503.06989) | Arxiv 2025 | 2025/03/10 | None | --- | I+T→T |
-|[**Adversarial Training for Multimodal Large Language Models against Jailbreak Attacks**](https://arxiv.org/abs/2503.04833) | Arxiv 2025 | 2025/03/05 | None | --- | I+T→T |
-|[**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**](https://arxiv.org/abs/2502.14744) | Arxiv 2025 | 2025/02/20 | [Github](https://github.com/leigest519/HiddenDetect) | --- | I+T→T |
-|[**SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning**](https://arxiv.org/abs/2502.12520) | Arxiv 2025 | 2025/02/18 | None | --- | I+T→T |
-|[**Understanding and Rectifying Safety Perception Distortion in VLMs**](https://arxiv.org/abs/2502.13095) | Arxiv 2025 | 2025/02/18 | None | --- | I+T→T |
-|[**Adversary-Aware DPO: Enhancing Safety Alignment in Vision Language Models via Adversarial Training**](https://arxiv.org/abs/2502.11455) | Arxiv 2025 | 2025/02/17 | None | --- | I+T→T |
-|[**Towards Robust Multimodal Large Language Models Against Jailbreak Attacks**](https://arxiv.org/abs/2502.00653) | Arxiv 2025 | 2025/02/02 | None | --- | I+T→T |
-|[**Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models**](https://arxiv.org/abs/2501.18533) | Arxiv 2025 | 2025/01/30 | None | --- | I+T→T |
-|[**Internal Activation Revision: Safeguarding Vision Language Models Without Parameter Update**](https://arxiv.org/abs/2501.16378) | Arxiv 2025 | 2025/01/24 | None | --- | I+T→T |
-|[**MSTS: A Multimodal Safety Test Suite for Vision-Language Models**](https://arxiv.org/abs/2501.10057) | Arxiv 2025 | 2025/01/17 | [Github](https://github.com/paul-rottger/msts-multimodal-safety) | --- | I+T→T |
-|[**Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**](https://arxiv.org/abs/2501.02029) | Arxiv 2025 | 2025/01/03 | [Github](https://github.com/Ziwei-Zheng/SAHs) | --- | I+T→T |
-|[**Defending LVLMs Against Vision Attacks through Partial-Perception Supervision**](https://arxiv.org/abs/2412.12722) | Arxiv 2024 | 2024/12/17 | None | --- | I+T→T |
-|[**VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data**](https://arxiv.org/abs/2410.00296) | Arxiv 2024 | 2024/10/01 | None | --- | I+T→T(从下往上看到这里！) |
+|[**The VLLM Safety Paradox: Dual Ease in Jailbreak Attack and Defense**](https://arxiv.org/abs/2411.08410) | Arxiv 2024 | 2024/11/13 | 暂未开源 | Input Level | I+T→T |
+|[**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**](https://arxiv.org/abs/2502.14976) | Arxiv 2025 | 2025/02/20 | 暂未开源 | Generator Level | I+T→T |
+|[**Hyperbolic Safety-Aware Vision-Language Models**](https://arxiv.org/abs/2503.12127) | CVPR 2025 | 2025/03/15 | [Github](https://github.com/aimagelab/HySAC) | Generator Level | I+T→T |
+|[**Tit-for-Tat: Safeguarding Large Vision-Language Models Against Jailbreak Attacks via Adversarial Defense**](https://arxiv.org/abs/2503.11619) | Arxiv 2025 | 2025/03/14 | 暂未开源 | Generator Level | I+T→T |
+|[**Utilizing Jailbreak Probability to Attack and Safeguard Multimodal LLMs**](https://arxiv.org/abs/2503.06989) | Arxiv 2025 | 2025/03/10 | 暂未开源 | Generator Level | I+T→T |
+|[**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**](https://arxiv.org/abs/2502.14744) | Arxiv 2025 | 2025/02/20 | [Github](https://github.com/leigest519/HiddenDetect) | Generator Level | I+T→T |
+|[**SafeEraser: Enhancing Safety in Multimodal Large Language Models through Multimodal Machine Unlearning**](https://arxiv.org/abs/2502.12520) | Arxiv 2025 | 2025/02/18 | 快开源了 | Generator Level | I+T→T |
+|[**Understanding and Rectifying Safety Perception Distortion in VLMs**](https://arxiv.org/abs/2502.13095) | Arxiv 2025 | 2025/02/18 | 暂未开源 | Generator Level | I+T→T |
+|[**Internal Activation Revision: Safeguarding Vision Language Models Without Parameter Update**](https://arxiv.org/abs/2501.16378) | Arxiv 2025 | 2025/01/24 | 暂未开源 | Generator Level | I+T→T |
+|[**Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**](https://arxiv.org/abs/2501.02029) | Arxiv 2025 | 2025/01/03 | [Github](https://github.com/Ziwei-Zheng/SAHs) | Generator Level | I+T→T |
+|[**Defending LVLMs Against Vision Attacks through Partial-Perception Supervision**](https://arxiv.org/abs/2412.12722) | Arxiv 2024 | 2024/12/17 | 暂未开源 | Output Level | I+T→T |
+|[**VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data**](https://arxiv.org/abs/2410.00296) | Arxiv 2024 | 2024/10/01 | 暂未开源 | Input Level | I+T→T(从下往上看到这里！) |
 |[**Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment**](https://arxiv.org/abs/2411.18688) | CVPR 2025 | 2024/11/27 | [Github](https://github.com/itsvaibhav01/Immune) | Output Level | I+T→T |
 |[**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**](https://arxiv.org/abs/2411.16721) | Arxiv 2024 | 2024/11/23 | [Github](https://github.com/ASTRAL-Group/ASTRA) | Generator Level | I+T→T |
 |[**Uniguard: Towards universal safety guardrails for jailbreak attacks on multimodal large language models**](https://arxiv.org/abs/2411.01703) | Arxiv 2024 | 2024/11/03 | [Github](https://anonymous.4open.science/r/UniGuard/README.md) | Input Level | I+T→T |
