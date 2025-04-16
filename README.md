@@ -55,7 +55,7 @@ Below are the papers related to jailbreak defense.
 |[**Internal Activation Revision: Safeguarding Vision Language Models Without Parameter Update**](https://arxiv.org/abs/2501.16378) | Arxiv 2025 | 2025/01/24 | 暂未开源 | Generator Level | I+T→T |
 |[**Spot Risks Before Speaking! Unraveling Safety Attention Heads in Large Vision-Language Models**](https://arxiv.org/abs/2501.02029) | Arxiv 2025 | 2025/01/03 | [Github](https://github.com/Ziwei-Zheng/SAHs) | Generator Level | I+T→T |
 |[**Defending LVLMs Against Vision Attacks through Partial-Perception Supervision**](https://arxiv.org/abs/2412.12722) | Arxiv 2024 | 2024/12/17 | 暂未开源 | Output Level | I+T→T |
-|[**VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data**](https://arxiv.org/abs/2410.00296) | Arxiv 2024 | 2024/10/01 | 暂未开源 | Input Level | I+T→T(从下往上看到这里！) |
+|[**VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data**](https://arxiv.org/abs/2410.00296) | Arxiv 2024 | 2024/10/01 | 暂未开源 | Input Level | I+T→T |
 |[**Immune: Improving Safety Against Jailbreaks in Multi-modal LLMs via Inference-Time Alignment**](https://arxiv.org/abs/2411.18688) | CVPR 2025 | 2024/11/27 | [Github](https://github.com/itsvaibhav01/Immune) | Output Level | I+T→T |
 |[**Steering Away from Harm: An Adaptive Approach to Defending Vision Language Model Against Jailbreaks**](https://arxiv.org/abs/2411.16721) | Arxiv 2024 | 2024/11/23 | [Github](https://github.com/ASTRAL-Group/ASTRA) | Generator Level | I+T→T |
 |[**Uniguard: Towards universal safety guardrails for jailbreak attacks on multimodal large language models**](https://arxiv.org/abs/2411.01703) | Arxiv 2024 | 2024/11/03 | [Github](https://anonymous.4open.science/r/UniGuard/README.md) | Input Level | I+T→T |
